@@ -17,14 +17,6 @@ The dashboard addresses a common business challenge: the need to quickly underst
 
 ---
 
-## 📊 Dashboard Preview
-
-*(Suggestion: Record a short GIF of you clicking through the filters and add it here for a live demo! You can replace the image link below.)*
-
-![Sales Dashboard Preview](https://i.imgur.com/your-dashboard-image.png)
-
----
-
 ## 🎯 Interactive Features & Technical Deep Dive
 
 #### 1. KPI Overview Cards
